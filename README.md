@@ -2,6 +2,8 @@
 
 [Open-source Admin Panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of various frameworks: [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django) and released under permissive licenses: MIT, LGPL - Provided by **AppSeed - [App Generator](https://appseed.us/app-generator)**
 
+<br />
+
 ## About this bundle
 
 > All web apps presented on this page are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
