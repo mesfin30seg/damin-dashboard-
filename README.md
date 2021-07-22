@@ -5,7 +5,8 @@
 <br />
 
 - (New) **[Soft UI Dashboard Flask](https://appseed.us/product/flask-soft-ui-dashboard)** - product page
-- (Free) [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
+- (New) **[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)** - product page
+- (Free) [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
 - (Free) [Flask Datta Able](https://appseed.us/admin-dashboards/flask-datta-able) - product page
 - (Free) [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
 - (Free) [Atlantis Lite Django](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - product page
