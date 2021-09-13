@@ -1,6 +1,6 @@
 # Admin Dashboards
 
-**[Open-Source Admin Panels](https://appseed.us/admin-dashboards/open-source)** coded / generated on top of various frameworks: Flask, Django and released under permissive licenses: MIT, LGPL - Provided by AppSeed.us. All dashboards are actively supported and the source code can be downloaded from Github (no account required). 
+**[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source)** coded / generated on top of various frameworks: Flask, Django and released under permissive licenses: MIT, LGPL - Provided by AppSeed.us. All dashboards are actively supported and the source code can be downloaded from Github (no account required). 
 
 <br />
 
