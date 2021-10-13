@@ -4,9 +4,11 @@
 
 <br />
 
-- (New) **[Soft UI Dashboard Flask](https://appseed.us/product/flask-soft-ui-dashboard)** - product page
-- (New) **[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)** - product page
-- (New) **[Django React Datta Able](https://appseed.us/product/django-react-datta-able)** - product page
+- (Free) [Django Datta Able](https://appseed.us/admin-dashboards/django-datta-able) - product page
+- (Free) [Flask Volt Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
+- (Free) [Soft UI Dashboard Flask](https://appseed.us/product/flask-soft-ui-dashboard) - product page
+- (Free) [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - product page
+- (Free) [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
 - (Free) [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
 - (Free) [Flask Datta Able](https://appseed.us/admin-dashboards/flask-datta-able) - product page
 - (Free) [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
@@ -18,7 +20,6 @@
 <br />
 
 ## [Django Datta Able](https://appseed.us/admin-dashboards/django-datta-able)
----
 
 **Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
 
@@ -34,7 +35,6 @@
 <br />
 
 ## [Flask Volt Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-volt)
----
 
 Volt Dashboard is a free and open source **[Bootstrap 5](https://appseed.us/admin-dashboards/flask-dashboard-volt)** Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and much more.
 
